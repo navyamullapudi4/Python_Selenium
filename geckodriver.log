@@ -1,0 +1,39 @@
+Invalid port. Exiting...
+1612812295854	geckodriver	INFO	Listening on 127.0.0.1:57669
+1612812298895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\navya\\AppData\\Local\\Temp\\rust_mozprofilecDNE9Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612812303403	Marionette	INFO	Listening on port 57677
+1612812303667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612812303691	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1612812305367	Marionette	INFO	Stopped listening on port 57677
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612812370499	geckodriver	INFO	Listening on 127.0.0.1:57739
+1612812373546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\navya\\AppData\\Local\\Temp\\rust_mozprofileOLBWtu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612812377073	Marionette	INFO	Listening on port 57747
+1612812377205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612812377227	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1612812378903	Marionette	INFO	Stopped listening on port 57747
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612812426570	geckodriver	INFO	Listening on 127.0.0.1:57808
+1612812429607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\navya\\AppData\\Local\\Temp\\rust_mozprofilefHg0Hf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612812432962	Marionette	INFO	Listening on port 57816
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612812433251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612812433275	Marionette	ERROR	[18] No reply from Marionette:Register
+1612812814848	Marionette	INFO	Stopped listening on port 57816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
